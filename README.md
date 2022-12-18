@@ -18,7 +18,7 @@ Simple app which helps with tips calculation for you and you friends.
 ## Preview
 
 <p align="center">
-      <img src="https://github.com/advanc3dUA/Tipsy/raw/master/ReadmeHelper/preview.gif alt= "Preview" width="250">
+      <img src="https://github.com/advanc3dUA/Tipsy/raw/master/ReadmeHelper/preview.gif" alt= "Preview" width="250">
 </p>
 
 
