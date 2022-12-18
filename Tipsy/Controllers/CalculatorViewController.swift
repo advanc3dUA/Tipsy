@@ -38,7 +38,6 @@ class CalculatorViewController: UIViewController {
 
     @IBAction func tipChanged(_ sender: UIButton) {
         selectTipButton(for: sender)
-        //billTextField.endEditing(true)
     }
     
     @IBAction func stepperValueChanged(_ sender: UIStepper) {

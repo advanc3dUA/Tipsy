@@ -18,7 +18,6 @@ class ResultsViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print(totalByPerson)
         guard let safeTotal = totalByPerson else { return }
         totalLabel.text = String(format: "%.2f", safeTotal)
         settingsLabel.text = "Split between \(people) people, with \(tips * 100)% tip."
